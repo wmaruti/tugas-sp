@@ -1,3 +1,3 @@
 >>>  person = input ('hallo : ')
      hallo  : wahyu maruti adjie
->>>      wahyu
+>>>      wahyu maruti adjie
